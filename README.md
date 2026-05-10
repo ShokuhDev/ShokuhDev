@@ -4,7 +4,7 @@
 <br>
 
 <h2 align="center">👨‍💻 About Me</h2>
-```txt
+
 ┌──( Mohammad | Shokuh Dev )
 │
 ├─> Multi-Platform Developer
@@ -35,6 +35,3 @@
 </p>
 
 <br>
-`
-
-باید درست باز و بسته بشه. اگه دیدی بعدش کل صفحه به‌هم ریخت، یعنی یکی از سه‌تا بک‌تیک‌ها جا افتاده.
