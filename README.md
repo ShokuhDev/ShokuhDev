@@ -62,7 +62,7 @@
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,python,cpp,linux,bash,git,github,vscode,androidstudio,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,linux,bash,git,github,vscode,androidstudio,arduino" />
 </p>
 
 ---
@@ -87,12 +87,6 @@
 
 <p align="center">
   You can check out my repositories, use my projects, learn from them, and improve them.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShokuhDev?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=00ff41" />
-  </a>
 </p>
 
 ---
