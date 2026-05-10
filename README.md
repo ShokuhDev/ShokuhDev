@@ -1,9 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=fc4503&text=Shokuh%20Dev&fontColor=00ff41&fontSize=0&stroke=000000&strokeWidth=3)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=fc4503&text=Shokuh%20Dev&fontColor=00ff41&fontSize=60&stroke=000000&strokeWidth=3" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 
 <h3 align="center">
