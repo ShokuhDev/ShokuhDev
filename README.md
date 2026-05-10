@@ -65,22 +65,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=chartreuse-dark&hide_border=true" />
-</p>
-
----
-
 <h2 align="center">🚀 Projects</h2>
 
 <p align="center">
